@@ -4,15 +4,15 @@ const BLOG = {
   email: 'myself@baksili.codes',
   link: 'https://blog.baksili.codes',
   description: 'Home of Baksi Li in the Cyberspace.',
-  lang: 'en-GB', // Failed multi-lang: 'zh-TW', 'ja-JP', 'eo-EO'],
+  lang: 'en-GB', // ['en-US', 'zh-TW', 'ja-JP', 'eo-EO'],
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
-  lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
-  darkBackground: '#18181B', // use hex value, don't forget '#'
+  lightBackground: '#fafafa', // #f4f2eh
+  darkBackground: '#242424', // #18181B
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2023, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 5,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
