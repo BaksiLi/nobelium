@@ -1,0 +1,21 @@
+{
+  "NAV": {
+    "INDEX": "Blogo",
+    "RSS": "RSS",
+    "SEARCH": "Serĉi",
+    "ABOUT": "Pri"
+  },
+  "PAGINATION": {
+    "PREV": "Antaŭa",
+    "NEXT": "Sekva"
+  },
+  "POST": {
+    "BACK": "Reen",
+    "TOP": "Supren"
+  },
+  "PAGE": {
+    "ERROR_404": {
+      "MESSAGE": "Bonvolu NE forigi viajn okulojn de tiu ĉi paĝo, ĉar se ne, ĝi eble malaperos..."
+    }
+  }
+}

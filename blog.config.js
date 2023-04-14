@@ -4,7 +4,7 @@ const BLOG = {
   email: 'myself@baksili.codes',
   link: 'https://blog.baksili.codes',
   description: 'Home of Baksi Li in the Cyberspace.',
-  lang: 'en-GB', //, 'zh-CN', 'zh-TW', 'ja-JP'],
+  lang: 'en-GB', // Failed multi-lang: 'zh-TW', 'ja-JP', 'eo-EO'],
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
